@@ -21,6 +21,8 @@ public class IntroActivityOne extends AppCompatActivity {
 
         intButton.setOnClickListener(View ->{
             Intent intent = new Intent(IntroActivityOne.this, RegisterActivity.class);
+            startActivity(intent);
+            finish();
         });
 
     }
