@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Alzheimer</string>
+    <string name="user_name">UserName</string>
+    <string name="login">Login</string>
+    <string name="are_you_have_account">Are You Have Account?</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="password">Password</string>
+    <string name="phone">Phone</string>
+    <string name="email">Email</string>
+    <string name="sign_up">Register</string>
+    <string name="alzheimer">Alzheimer</string>
+    <string name="signup">Register</string>
+    <string name="todo">todo</string>
+    <string name="todoo">todo</string>
+    <string name="image">Image</string>
+    <string name="please_enter_your_username">Please Enter UserName</string>
+    <string name="please_enter_your_email">Please Enter Email</string>
+    <string name="please_enter_your_Phone">Please Add Phone Number </string>
+    <string name="please_enter_your_Password">Please Enter Password</string>
+    <string name="please_enter_Valid_email"> Please Enter Valid Email</string>
+    <string name="Phone_Should_be_11_char">Phone Should be 11 Char</string>
+</resources>

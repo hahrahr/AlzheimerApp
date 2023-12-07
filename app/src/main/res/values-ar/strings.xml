@@ -1,4 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">زهايمر</string>
+    <string name="user_name">أسم المستخدم</string>
+    <string name="login">دخول</string>
+    <string name="are_you_have_account">هل عندك حساب؟</string>
+    <string name="confirm_password">تأكيد كلمة السر</string>
+    <string name="password">كلمة السر</string>
+    <string name="phone">الهاتف</string>
+    <string name="email">البريد الألكتروني</string>
+    <string name="sign_up">تسجيل</string>
+    <string name="alzheimer">الزهايمر</string>
+    <string name="signup">تسجيل</string>
+    <string name="todo">تودو</string>
+    <string name="todoo">تودو</string>
+    <string name="image">صورة</string>
+    <string name="please_enter_your_username">من فضلك أدخل أسم مستخدم</string>
+    <string name="please_enter_your_email">من فضلك أدخل بريد الكتروني</string>
+    <string name="please_enter_your_Phone">من فضلك أضف رقم الهاتف </string>
+    <string name="please_enter_your_Password">من فضلك أدخل كلمة مرور</string>
+    <string name="please_enter_Valid_email"> من فضلك أدخل بريد الكتروني جيد</string>
+    <string name="Phone_Should_be_11_char">يجب ان يحتوي رقم الهاتف علي 11 رقم</string>
 </resources>

@@ -1,11 +1,10 @@
 package com.projecttask.alzheimerapp.ui;
 
-import androidx.appcompat.app.AppCompatActivity;
-
 import android.content.Intent;
 import android.os.Bundle;
-import android.view.View;
 import android.widget.Button;
+
+import androidx.appcompat.app.AppCompatActivity;
 
 import com.projecttask.alzheimerapp.R;
 import com.projecttask.alzheimerapp.ui.auth.RegisterActivity;
@@ -22,7 +21,7 @@ public class IntroActivityOne extends AppCompatActivity {
         intButton.setOnClickListener(View ->{
             Intent intent = new Intent(IntroActivityOne.this, RegisterActivity.class);
             startActivity(intent);
-            finish();
+
         });
 
     }
